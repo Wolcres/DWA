@@ -1,0 +1,48 @@
+
+#Medical{
+
+    width: 150px;
+    float: left;
+
+
+}
+   
+
+footer{
+
+ 
+    position: fixed;
+    
+     
+    bottom:0;
+    
+     
+    left: 0;
+    
+     
+    width: 100%;
+    
+     
+    padding-bottom: 15px;
+    
+     
+    }
+    
+
+    #div{
+
+        width: 1000px;
+        margin: auto;
+
+
+    }
+
+    #TextoF{
+
+        float: right;
+        margin-top: 70px;
+
+    }
+
+
+
