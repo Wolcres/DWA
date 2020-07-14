@@ -1,0 +1,22 @@
+
+.icono1{
+
+    width: 150px;
+    float: right;
+    padding-left: 50px;
+}
+
+
+.icono2{
+
+    width: 150px;
+    float: left;
+    padding-right: 50px;
+}
+
+div{
+
+    margin: auto;
+    width: 900px;
+
+}
